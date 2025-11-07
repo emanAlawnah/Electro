@@ -27,11 +27,11 @@ GitHub Repository: [https://github.com/emanAlawnah/Electro](https://github.com/e
 ---
 
 ## Technologies Used
-- **ASP.NET MVC 5**
-- **Entity Framework 6**
+- **ASP.NET MVC**
+- **Entity Framework**
 - **SQL Server**
-- **Bootstrap 5**
+- **Bootstrap**
 - **jQuery**
-- **HTML / CSS /**
+- **HTML / CSS**
 
 ---
