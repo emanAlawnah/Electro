@@ -1,6 +1,5 @@
 # Electro - C# MVC E-Commerce Project
 
-![Electro Logo](path-to-your-logo.png)
 
 **Electro** is a simple e-commerce web application built using **ASP.NET MVC**, **Entity Framework**, and **SQL Server**. It allows an **admin** to manage categories and products (with images), while regular users can browse products without admin privileges.  
 
