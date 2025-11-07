@@ -1,0 +1,54 @@
+﻿@using EcomarceFirstApp.Data
+@model Product
+
+<form method="post" action="/Admin/Products/Store" class="d-flex flex-column gap-2" style="max-width: 500px;" enctype="multipart/form-data">
+    @Html.AntiForgeryToken()
+
+    <div class="form-group w-100">
+        <label for="Product-name">Product name</label>
+        <input type="text" name="name" value="@Model.Name" class="form-control" id="Product-name" placeholder="enter the product name" />
+        <span class="text-danger" asp-validation-for="Name"></span>
+    </div>
+    <div class="form-group w-100">
+        <label>Description</label>
+        <textarea name="Description" class="form-control" rows="3" placeholder="Enter category Description...">@Model.Description</textarea>
+        <span class="text-danger" asp-validation-for="Description"></span>
+    </div>
+    <div class="form-group w-100">
+        <label for="Product-Price">Product price</label>
+        <input type="number" name="Price" value="@Model.Price" class="form-control" id="Product-name" placeholder="enter the product price" />
+        <span class="text-danger" asp-validation-for="Price"></span>
+    </div>
+    <div class="form-group w-100">
+        <label for="Product-Quantity">Product Quantity</label>
+        <input type="number" name="Quantity" value="@Model.Quantity" class="form-control" id="Product-Quantity" placeholder="enter the product Quantity" />
+        <span class="text-danger" asp-validation-for="Quantity"></span>
+    </div>
+
+    <div class="form-group w-100">
+        <label for="Productfile">Product Image</label>
+        <input type="file" name="file"  class="form-control" id="ProductFile" />
+        <span class="text-danger" asp-validation-for="Image"></span>
+    </div>
+
+    <div class="form-group d-flex gap-2">
+        <select class="w-auto" name="CategoryId">
+        @foreach (var item in ViewBag.Categories)
+        {
+                <option value="@item.Id">@item.Name</option>
+        }
+    </select>
+   
+        <div class="form-group d-flex gap-2 align-items-center">
+            <input asp-for="IsTopSelling" type="checkbox" class="form-check-input" />
+            <label asp-for="IsTopSelling" class="form-check-label">Top Selling</label>
+        </div>
+
+    </div>
+
+    
+
+
+    
+    <button type="submit" class="btn btn-outline-info mt-1 w-auto">create</button>
+</form>

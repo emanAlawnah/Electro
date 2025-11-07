@@ -1,0 +1,18 @@
+﻿@using EcomarceFirstApp.Models
+@model Category
+
+<form method="post" action="/Admin/Categories/Update" class=" d-flex flex-column align-items-center justify-content-center gap-2 w-100 ">
+    <input type="hidden" value="@Model.Id" name="Id" class="form-control" id="exampleInputName" placeholder="Enter Category Name">
+
+    <div class="form-group w-100">
+        <label for="exampleInputName">Name</label>
+        <input type="text" value="@Model.Name" name="Name" class="form-control" id="exampleInputName" placeholder="Enter Category Name">
+        <span class="text-danger " asp-validation-for="Name"></span>
+    </div>
+    <div class="form-group w-100">
+        <label>Description</label>
+        <textarea name="Description" class="form-control" rows="3" placeholder="Enter category Description...">@Model.Description</textarea>
+    </div>
+    <button type="submit" class="btn btn-outline-info mt-1">Update</button>
+
+</form>
