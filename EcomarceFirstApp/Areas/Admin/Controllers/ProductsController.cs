@@ -22,7 +22,8 @@ namespace EcomarceFirstApp.Areas.Admin.Controllers
                     Name = item.Name,
                     Description = item.Description,
                     Price = item.Price,
-                    ImageUrl = $"{Request.Scheme}://{Request.Host}/images/{item.Image}",
+                    Discount = item.Discount,
+                    ImageUrl = Url.Content($"~/images/{item.Image}"),
                     CategoryName = item.Category.Name
 
                 };
@@ -86,6 +87,7 @@ namespace EcomarceFirstApp.Areas.Admin.Controllers
             product.Name=request.Name;
             product.Description=request.Description;
             product.Price = request.Price;
+            product.Discount=request.Discount;
             product.Quantity = request.Quantity;
             product.CategoryId=request.CategoryId;
             product.IsTopSelling=request.IsTopSelling;

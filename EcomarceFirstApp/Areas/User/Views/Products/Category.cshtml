@@ -1,41 +1,44 @@
 ﻿@using EcomarceFirstApp.ViewModels
 @model List<ProductsViewModel>
-<section class="py-5">
-    <div class="container px-4 px-lg-5 mt-5">
-        <h2 class="text-center mb-4">@ViewBag.CategoryName</h2>
-        <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+
+<div class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-title">
+                    <h3 class="title">@ViewBag.CategoryName</h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="products-slick" data-nav="#slick-nav-1">
             @foreach (var product in Model)
             {
-                <div class="col mb-5">
-                    <div class="card h-100">
-                        <img class="card-img-top" src="@product.ImageUrl" alt="@product.Name" />
-                        <div class="card-body p-4">
-                            <div class="text-center">
-                                <h5 class="fw-bolder">@product.Name</h5>
-                                <p>@product.Price $</p>
+                <div class="product">
+                    <div class="product-img">
+                        <img src="@product.ImageUrl" alt="@product.Name">
+                        @if (product.Discount > 0)
+                        {
+                            <div class="product-label">
+                                <span class="sale">-@product.Discount%</span>
                             </div>
+                        }
+                        <div class="product-label">
+                            <span class="new">NEW</span>
                         </div>
-                        <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                            <a class="btn btn-outline-dark mt-auto d-flex align-items-center justify-content-center " href="#">
-                                <div class="text-center d-flex align-items-center justify-content-center gap-1">
-                                    <p class="m-auto">add to cart</p>
-                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000" version="1.1" id="Capa_1" width="20px" height="20px" viewBox="0 0 902.86 902.86" xml:space="preserve">
-                                    <g>
-                                    <g>
-                                    <path d="M671.504,577.829l110.485-432.609H902.86v-68H729.174L703.128,179.2L0,178.697l74.753,399.129h596.751V577.829z     M685.766,247.188l-67.077,262.64H131.199L81.928,246.756L685.766,247.188z" />
-                                    <path d="M578.418,825.641c59.961,0,108.743-48.783,108.743-108.744s-48.782-108.742-108.743-108.742H168.717    c-59.961,0-108.744,48.781-108.744,108.742s48.782,108.744,108.744,108.744c59.962,0,108.743-48.783,108.743-108.744    c0-14.4-2.821-28.152-7.927-40.742h208.069c-5.107,12.59-7.928,26.342-7.928,40.742    C469.675,776.858,518.457,825.641,578.418,825.641z M209.46,716.897c0,22.467-18.277,40.744-40.743,40.744    c-22.466,0-40.744-18.277-40.744-40.744c0-22.465,18.277-40.742,40.744-40.742C191.183,676.155,209.46,694.432,209.46,716.897z     M619.162,716.897c0,22.467-18.277,40.744-40.743,40.744s-40.743-18.277-40.743-40.744c0-22.465,18.277-40.742,40.743-40.742    S619.162,694.432,619.162,716.897z" />
-                                                         </g>
-                                                        </g>
-                                                        </svg>
-                                </div>
-                            </a>
-
-
-                         
-                        </div>
+                    </div>
+                    <div class="product-body text-center">
+                        <p class="product-category">@product.CategoryName</p>
+                        <h3 class="product-name"><a href="#">@product.Name</a></h3>
+                        <h4 class="product-price">@product.SalePrice $</h4>
+                      
+                    </div>
+                    <div class="add-to-cart text-center">
+                        <button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i> add to cart</button>
                     </div>
                 </div>
             }
         </div>
+        <div id="slick-nav-1" class="products-slick-nav"></div>
     </div>
-</section>
+</div>

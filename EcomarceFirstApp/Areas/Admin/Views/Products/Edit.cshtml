@@ -18,6 +18,14 @@
         <input type="number" name="Price" value="@Model.Price" class="form-control" id="Product-name" placeholder="enter the product price" />
         <span class="text-danger" asp-validation-for="Price"></span>
     </div>
+
+    <div class="form-group w-100" ">
+        <label for="Product-Discount">Product Discount</label>
+        <input type="number" name="Discount" value="@Model.Discount" class="form-control" id="Product-Discount" placeholder="enter the product discount" />
+        <span class="text-danger" asp-validation-for="Discount"></span>
+
+    </div>
+
     <div class="form-group w-100">
         <label for="Product-Quantity">Product Quantity</label>
         <input type="number" name="Quantity" value="@Model.Quantity" class="form-control" id="Product-Quantity" placeholder="enter the product Quantity" />

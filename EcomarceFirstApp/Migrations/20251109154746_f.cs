@@ -1,0 +1,40 @@
+﻿using System;
+using Microsoft.EntityFrameworkCore.Migrations;
+
+#nullable disable
+
+namespace EcomarceFirstApp.Migrations
+{
+    /// <inheritdoc />
+    public partial class f : Migration
+    {
+        /// <inheritdoc />
+        protected override void Up(MigrationBuilder migrationBuilder)
+        {
+            migrationBuilder.AddColumn<DateTime>(
+                name: "DateAdded",
+                table: "Products",
+                type: "datetime2",
+                nullable: false,
+                defaultValue: new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified));
+
+            migrationBuilder.AddColumn<double>(
+                name: "Discount",
+                table: "Products",
+                type: "float",
+                nullable: true);
+        }
+
+        /// <inheritdoc />
+        protected override void Down(MigrationBuilder migrationBuilder)
+        {
+            migrationBuilder.DropColumn(
+                name: "DateAdded",
+                table: "Products");
+
+            migrationBuilder.DropColumn(
+                name: "Discount",
+                table: "Products");
+        }
+    }
+}

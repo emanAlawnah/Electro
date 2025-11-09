@@ -24,10 +24,20 @@ namespace EcomarceFirstApp.Data
         public int Quantity { get; set; }
         [ValidateNever]
         public string Image {  get; set; }
-        public int CategoryId { get; set; }
-        public bool IsTopSelling { get; set; }
         [ValidateNever]
+
+        public int CategoryId { get; set; }
+
+        public bool IsTopSelling { get; set; }
+      
+        [Range(1,100)]
+        public double? Discount {  get; set; }
+        public double SalePrice => Price - (Price * (Discount ?? 0) / 100);
+        public DateTime DateAdded { get; set; } = DateTime.Now;
+        [ValidateNever]
+
         public Category Category { get; set; }
+
 
     }
 }
