@@ -20,19 +20,26 @@ namespace EcomarceFirstApp.Data
                 {
                     Id = 1,
                     Name = "mobile",
-                    Description= "this is mobile "
+                    Description= "this is mobile ",
+                    Image = "default.jpg"
+
                 },
                    new Category
                    {
                        Id = 2,
                        Name = "Laptop",
-                       Description = "this is Laptop "
+                       Description = "this is Laptop ",
+                       Image = "default.jpg"
+
+
                    },
                       new Category
                       {
                           Id = 3,
                           Name = "Tablet",
-                          Description = "this is Tablet "
+                          Description = "this is Tablet ",
+                          Image = "default.jpg"
+
                       }
                 );
         }

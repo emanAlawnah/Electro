@@ -23,21 +23,32 @@
             </div>
         </div>
     </nav>
-    <div class="container shop-section">
-        <div class="row g-4">
-            @foreach (var item in ViewBag.cats)
-            {
-                <div class="col-md-2 col-6">
-                    <div class="shop-body text-center p-3 border">
-                        <h3>@item.Name<br>Collection</h3>
-                        <a href="/User/Products/Category/@item.Id" class="btn btn-primary mt-2">
-                            Shop now <i class="fa fa-arrow-circle-right"></i>
-                        </a>
-                    </div>
-                </div>
-            }
-        </div>
-    </div>
+   <div class="section">
+	<div class="container">
+		<div class="row">
+
+			@foreach (var item in ViewBag.cats)
+			{
+				<div class="col-md-4 col-xs-6">
+					<div class="shop">
+						<div class="shop-img">
+							<img src="@item.ImageUrl" alt="@item.Name" style="height:250px; object-fit:cover;">
+						</div>
+						<div class="shop-body">
+							<h3>@item.Name<br>Collection</h3>
+							<a href="/User/Products/Category/@item.Id" class="cta-btn">
+								Shop now <i class="fa fa-arrow-circle-right"></i>
+							</a>
+						</div>
+					</div>
+				</div>
+			}
+
+		</div>
+	</div>
+</div>
+
+
 
 
 
@@ -71,19 +82,31 @@
 											<div class="product-img">
 												<img src="@item.ImageUrl" alt="@item.Name">
 												<div class="product-label">
+													@if (item.Discount > 0)
+													{
+														<span class="sale">-@item.Discount%</span>
+													}
 													<span class="new">NEW</span>
 												</div>
 											</div>
-											<div class="product-body">
-												<h3 class="product-name"><a href="#">@item.Name</a></h3>
-												<h4 class="product-price">@item.SalePrice<span>$</span> </h4>
-												<div class="product-rating">
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star"></i>
-													<i class="fa fa-star-o"></i>
-												</div>
+													<div class="product-body">
+									<p class="product-category">@item.CategoryName</p>
+									<h3 class="product-name"><a href="#">@item.Name</a></h3>
+									<h4 class="product-price">
+										@item.SalePrice<span>$</span>
+										@if (item.Discount > 0)
+										{
+											<del class="product-old-price">@item.Price$</del>
+										}
+									</h4>
+									<div class="product-rating">
+										<i class="fa fa-star"></i>
+										<i class="fa fa-star"></i>
+										<i class="fa fa-star"></i>
+										<i class="fa fa-star"></i>
+										<i class="fa fa-star-o"></i>
+									</div>
+								
 												<div class="product-btns">
 													<button class="add-to-wishlist"><i class="fa fa-heart-o"></i><span class="tooltipp">add to wishlist</span></button>
 													<button class="add-to-compare"><i class="fa fa-exchange"></i><span class="tooltipp">add to compare</span></button>

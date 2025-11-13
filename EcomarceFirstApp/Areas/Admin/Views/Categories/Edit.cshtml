@@ -1,18 +1,47 @@
-﻿@using EcomarceFirstApp.Models
-@model Category
+﻿@using EcomarceFirstApp.ViewModels
+@model CategoriesViewModel
 
-<form method="post" action="/Admin/Categories/Update" class=" d-flex flex-column align-items-center justify-content-center gap-2 w-100 ">
-    <input type="hidden" value="@Model.Id" name="Id" class="form-control" id="exampleInputName" placeholder="Enter Category Name">
+<form method="post"
+      asp-action="Update"
+      asp-controller="Categories"
+      asp-area="Admin"
+      enctype="multipart/form-data"
+      class="d-flex flex-column align-items-center justify-content-center gap-3 w-100">
+
+    <input type="hidden" asp-for="Id" />
 
     <div class="form-group w-100">
-        <label for="exampleInputName">Name</label>
-        <input type="text" value="@Model.Name" name="Name" class="form-control" id="exampleInputName" placeholder="Enter Category Name">
-        <span class="text-danger " asp-validation-for="Name"></span>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span class="text-danger" asp-validation-for="Name"></span>
     </div>
+
     <div class="form-group w-100">
-        <label>Description</label>
-        <textarea name="Description" class="form-control" rows="3" placeholder="Enter category Description...">@Model.Description</textarea>
+        <label asp-for="Description"></label>
+        <textarea asp-for="Description" class="form-control" rows="3"></textarea>
+        <span class="text-danger" asp-validation-for="Description"></span>
     </div>
-    <button type="submit" class="btn btn-outline-info mt-1">Update</button>
+
+    <!-- عرض الصورة الحالية -->
+    <div class="form-group w-100">
+        <label>Current Image</label>
+        <br />
+        @if (!string.IsNullOrEmpty(Model.ExistingImage))
+        {
+            <img src="~/images/@Model.ExistingImage" width="150" class="rounded" />
+        }
+        else
+        {
+            <p class="text-muted">No image uploaded.</p>
+        }
+    </div>
+
+    <!-- رفع صورة جديدة -->
+    <div class="form-group w-100">
+        <label asp-for="ImageFile">Upload New Image</label>
+        <input asp-for="ImageFile" type="file" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-outline-info mt-2">Update</button>
 
 </form>

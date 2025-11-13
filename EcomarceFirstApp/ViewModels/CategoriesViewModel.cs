@@ -2,25 +2,20 @@
 using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 using System.ComponentModel.DataAnnotations;
 
-namespace EcomarceFirstApp.Models
+namespace EcomarceFirstApp.ViewModels
 {
-    public class Category
+    public class CategoriesViewModel
     {
         public int Id { get; set; }
 
-        [MinLength(3)]
         [Required]
-        [MaxLength(15)]
         public string Name { get; set; }
-
-       
-        [MaxLength(200)]
         public string? Description { get; set; }
 
-        [ValidateNever]
-        public string? Image { get; set; }
+        public string? ImageUrl { get; set; }
+        public string? ExistingImage { get; set; }
 
-        List<Product> Products { get; set; }
-
+        public IFormFile? ImageFile { get; set; } 
     }
+
 }

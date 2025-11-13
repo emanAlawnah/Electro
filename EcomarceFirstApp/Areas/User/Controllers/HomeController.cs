@@ -18,8 +18,16 @@ namespace EcomarceFirstApp.Areas.User.Controllers
 
         public IActionResult Index()
         {
+            var categories = _context.Categories.ToList();
+            var catsVm = categories.Select(item => new CategoriesViewModel
+            {
+                Id = item.Id,
+                Name = item.Name,
+                ImageUrl = Url.Content($"~/images/{item.Image}")
+            }).ToList();
 
-            ViewBag.cats = _context.Categories.ToList();
+             ViewBag.cats = catsVm;
+
             var latestProducts = _context.Products.OrderByDescending(p => p.DateAdded).Take(5).ToList();
             var latestProductsVm = latestProducts.Select(p => new ProductsViewModel
             {
@@ -27,6 +35,7 @@ namespace EcomarceFirstApp.Areas.User.Controllers
                 Name = p.Name,
                 Description = p.Description,
                 Price = p.Price,
+                Discount = p.Discount,
                 CategoryName = p.Category.Name,
                 IsTopSelling=p.IsTopSelling,
                 ImageUrl = $"{Request.Scheme}://{Request.Host}/images/{p.Image}"
@@ -43,7 +52,7 @@ namespace EcomarceFirstApp.Areas.User.Controllers
                 IsTopSelling = p.IsTopSelling
             }).Take(12).ToList();
             
-            ViewBag.latestProducts = latestProductsVm;
+            ViewBag.LatestProducts = latestProductsVm;
             ViewBag.TopSellingProducts = topSellingProducts;
 
             return View("Index");
