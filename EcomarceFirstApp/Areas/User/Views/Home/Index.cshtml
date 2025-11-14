@@ -1,5 +1,5 @@
 ﻿<head>
-    ...
+    
     <style>
         .shop-section {
             margin-top:50px; 
@@ -274,11 +274,14 @@
 		<!-- /container -->
 	</div>
 	<!-- /NEWSLETTER -->
+	
+<script src="~/lib/jquery/dist/jquery.min.js" asp-append-version="true"></script>
+<script src="~/lib/slick.min.js" asp-append-version="true"></script>
 	<script>
 		$('.products-slick').each(function () {
 			var $this = $(this),
 				$nav = $this.attr('data-nav');
-
+			if ($this.length) {
 			$this.slick({
 				slidesToShow: 4,
 				slidesToScroll: 1,
@@ -305,6 +308,7 @@
 					}
 				]
 			});
+			}
 		});
 	</script>
 

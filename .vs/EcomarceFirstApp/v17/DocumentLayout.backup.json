@@ -3,40 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\areas\\user\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\areas\\user\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\wwwroot\\lib\\slick.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\wwwroot\\lib\\slick.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\wwwroot\\lib\\slick-theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\wwwroot\\lib\\slick-theme.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\areas\\user\\views\\products\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\areas\\user\\views\\products\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\areas\\user\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\areas\\user\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\wwwroot\\lib\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\wwwroot\\lib\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\wwwroot\\lib\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\wwwroot\\lib\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\viewmodels\\categoriesviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\viewmodels\\categoriesviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\areas\\user\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\areas\\user\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\migrations\\20251113210832_jjj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\migrations\\20251113210832_jjj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\viewmodels\\categoriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,22 +67,6 @@
       "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\areas\\user\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\areas\\user\\views\\products\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\areas\\user\\views\\products\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\Migrations\\20251113210832_jjj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EcomarceFirstApp\\Migrations\\20251113210832_jjj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\viewmodels\\categoriesviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\viewmodels\\categoriesviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\areas\\user\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\areas\\user\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -71,20 +75,12 @@
       "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\areas\\admin\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\viewmodels\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\viewmodels\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\areas\\user\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|solutionrelative:ecomarcefirstapp\\areas\\user\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2D19C54-AE3C-4D36-B122-E458DC0770FF}|EcomarceFirstApp\\EcomarceFirstApp.csproj|c:\\users\\hp\\source\\repos\\asp12\\mvc\\ecomarcefirstapp\\ecomarcefirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,51 +94,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\Areas\\User\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "EcomarceFirstApp\\Areas\\User\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\Areas\\User\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "EcomarceFirstApp\\Areas\\User\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-09T21:17:05.217Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\Areas\\Admin\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "EcomarceFirstApp\\Areas\\Admin\\Views\\Products\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\Areas\\Admin\\Views\\Products\\Index.cshtml*",
-              "RelativeToolTip": "EcomarceFirstApp\\Areas\\Admin\\Views\\Products\\Index.cshtml*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-13T21:57:00.544Z",
-              "EditorCaption": ""
+              "DocumentIndex": 1,
+              "Title": "slick.css",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\wwwroot\\lib\\slick.css",
+              "RelativeDocumentMoniker": "EcomarceFirstApp\\wwwroot\\lib\\slick.css",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\wwwroot\\lib\\slick.css",
+              "RelativeToolTip": "EcomarceFirstApp\\wwwroot\\lib\\slick.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-14T18:58:40.612Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "slick-theme.css",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\wwwroot\\lib\\slick-theme.css",
+              "RelativeDocumentMoniker": "EcomarceFirstApp\\wwwroot\\lib\\slick-theme.css",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\wwwroot\\lib\\slick-theme.css",
+              "RelativeToolTip": "EcomarceFirstApp\\wwwroot\\lib\\slick-theme.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-14T18:49:10.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "main.js",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\wwwroot\\lib\\main.js",
               "RelativeDocumentMoniker": "EcomarceFirstApp\\wwwroot\\lib\\main.js",
               "ToolTip": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\wwwroot\\lib\\main.js",
               "RelativeToolTip": "EcomarceFirstApp\\wwwroot\\lib\\main.js",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAuwKcAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-11-13T21:44:07.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T21:44:07.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "20251113210832_jjj.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\Migrations\\20251113210832_jjj.cs",
               "RelativeDocumentMoniker": "EcomarceFirstApp\\Migrations\\20251113210832_jjj.cs",
@@ -150,12 +159,11 @@
               "RelativeToolTip": "EcomarceFirstApp\\Migrations\\20251113210832_jjj.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T21:08:32.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T21:08:32.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "EcomarceFirstApp\\Data\\ApplicationDbContext.cs",
@@ -163,12 +171,11 @@
               "RelativeToolTip": "EcomarceFirstApp\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAuwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T21:07:35.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T21:07:35.483Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
               "RelativeDocumentMoniker": "EcomarceFirstApp\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
@@ -176,12 +183,11 @@
               "RelativeToolTip": "EcomarceFirstApp\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-13T20:59:17.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T20:59:17.796Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
               "RelativeDocumentMoniker": "EcomarceFirstApp\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
@@ -189,12 +195,11 @@
               "RelativeToolTip": "EcomarceFirstApp\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-13T20:54:02.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T20:54:02.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
               "RelativeDocumentMoniker": "EcomarceFirstApp\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
@@ -202,12 +207,11 @@
               "RelativeToolTip": "EcomarceFirstApp\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
               "ViewState": "AgIAAA0AAAAAAAAAAAAiwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-13T20:50:20.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T20:50:20.185Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\Areas\\Admin\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "EcomarceFirstApp\\Areas\\Admin\\Controllers\\CategoriesController.cs",
@@ -215,12 +219,11 @@
               "RelativeToolTip": "EcomarceFirstApp\\Areas\\Admin\\Controllers\\CategoriesController.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAQwDAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T20:38:29.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T20:38:29.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "CategoriesViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\ViewModels\\CategoriesViewModel.cs",
               "RelativeDocumentMoniker": "EcomarceFirstApp\\ViewModels\\CategoriesViewModel.cs",
@@ -228,12 +231,11 @@
               "RelativeToolTip": "EcomarceFirstApp\\ViewModels\\CategoriesViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T20:18:15.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T20:18:15.025Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\Models\\Category.cs",
               "RelativeDocumentMoniker": "EcomarceFirstApp\\Models\\Category.cs",
@@ -241,63 +243,36 @@
               "RelativeToolTip": "EcomarceFirstApp\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T20:15:15.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-13T20:15:15.985Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\Areas\\User\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "EcomarceFirstApp\\Areas\\User\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\Areas\\User\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "EcomarceFirstApp\\Areas\\User\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-11T16:31:55.913Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "Category.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\Areas\\User\\Views\\Products\\Category.cshtml",
               "RelativeDocumentMoniker": "EcomarceFirstApp\\Areas\\User\\Views\\Products\\Category.cshtml",
               "ToolTip": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\Areas\\User\\Views\\Products\\Category.cshtml",
               "RelativeToolTip": "EcomarceFirstApp\\Areas\\User\\Views\\Products\\Category.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-09T21:23:10.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-09T21:23:10.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\wwwroot\\lib\\style.css",
-              "RelativeDocumentMoniker": "EcomarceFirstApp\\wwwroot\\lib\\style.css",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\wwwroot\\lib\\style.css",
-              "RelativeToolTip": "EcomarceFirstApp\\wwwroot\\lib\\style.css",
-              "ViewState": "AgIAACYAAAAAAAAAAAAswD4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-11-09T20:18:44.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "EcomarceFirstApp\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "EcomarceFirstApp\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-09T20:12:25.929Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 7,
               "Title": "CategoriesViewComponent.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\ViewModels\\CategoriesViewComponent.cs",
               "RelativeDocumentMoniker": "EcomarceFirstApp\\ViewModels\\CategoriesViewComponent.cs",
@@ -305,12 +280,11 @@
               "RelativeToolTip": "EcomarceFirstApp\\ViewModels\\CategoriesViewComponent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T18:38:20.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-09T18:38:20.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\Program.cs",
               "RelativeDocumentMoniker": "EcomarceFirstApp\\Program.cs",
@@ -330,25 +304,23 @@
               "RelativeToolTip": "EcomarceFirstApp\\ViewModels\\ProductsViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T14:57:42.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-09T14:57:42.664Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "EcomarceFirstApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "EcomarceFirstApp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAHQBAAAAAAAAAAAqwJcBAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-04T17:47:55.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T17:47:55.428Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\Areas\\User\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "EcomarceFirstApp\\Areas\\User\\Controllers\\HomeController.cs",
@@ -356,8 +328,7 @@
               "RelativeToolTip": "EcomarceFirstApp\\Areas\\User\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T21:20:21.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-02T21:20:21.685Z"
             },
             {
               "$type": "Document",
@@ -369,12 +340,11 @@
               "RelativeToolTip": "EcomarceFirstApp\\Models\\Product.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAkwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T20:27:27.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T20:27:27.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 9,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\asp12\\mvc\\EcomarceFirstApp\\EcomarceFirstApp\\Areas\\Admin\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "EcomarceFirstApp\\Areas\\Admin\\Controllers\\ProductsController.cs",
@@ -382,8 +352,7 @@
               "RelativeToolTip": "EcomarceFirstApp\\Areas\\Admin\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T20:32:11.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T20:32:11.754Z"
             }
           ]
         }

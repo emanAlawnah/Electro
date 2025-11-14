@@ -344,9 +344,10 @@ C:\Users\Hp\source\repos\asp12\mvc\EcomarceFirstApp\EcomarceFirstApp\obj\Debug\n
 C:\Users\Hp\source\repos\asp12\mvc\EcomarceFirstApp\EcomarceFirstApp\obj\Debug\net9.0\compressed\3fad4kb7to-ufik3s9dum.gz
 C:\Users\Hp\source\repos\asp12\mvc\EcomarceFirstApp\EcomarceFirstApp\obj\Debug\net9.0\compressed\sc58po6dan-isc7u9n7qi.gz
 C:\Users\Hp\source\repos\asp12\mvc\EcomarceFirstApp\EcomarceFirstApp\obj\Debug\net9.0\compressed\umhm8jjzav-qs5jtj4q0p.gz
-C:\Users\Hp\source\repos\asp12\mvc\EcomarceFirstApp\EcomarceFirstApp\obj\Debug\net9.0\compressed\e7im702pd0-rv4ksgcf64.gz
 C:\Users\Hp\source\repos\asp12\mvc\EcomarceFirstApp\EcomarceFirstApp\obj\Debug\net9.0\compressed\ll773wf8mm-2415k8y08g.gz
 C:\Users\Hp\source\repos\asp12\mvc\EcomarceFirstApp\EcomarceFirstApp\obj\Debug\net9.0\compressed\82pcn3vdoa-7wa2vx8f2r.gz
 C:\Users\Hp\source\repos\asp12\mvc\EcomarceFirstApp\EcomarceFirstApp\obj\Debug\net9.0\compressed\nz71toc2ge-krratgaar5.gz
 C:\Users\Hp\source\repos\asp12\mvc\EcomarceFirstApp\EcomarceFirstApp\obj\Debug\net9.0\compressed\k2u7jsvnjf-nigmt84j8l.gz
 C:\Users\Hp\source\repos\asp12\mvc\EcomarceFirstApp\EcomarceFirstApp\obj\Debug\net9.0\compressed\bfii9qncnv-0p98orpnp6.gz
+C:\Users\Hp\source\repos\asp12\mvc\EcomarceFirstApp\EcomarceFirstApp\obj\Debug\net9.0\compressed\l1sgda187y-dosqy3kf6t.gz
+C:\Users\Hp\source\repos\asp12\mvc\EcomarceFirstApp\EcomarceFirstApp\obj\Debug\net9.0\compressed\e7im702pd0-jxguqiz49i.gz
